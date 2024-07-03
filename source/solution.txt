@@ -1,0 +1,167 @@
+---b1 to t8---
+Cheapest Route: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 4 Distance: 590 Cost 177.7
+Origin: BikeDepot1 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: Airport3
+Origin: Airport3 Destination: TruckDepot8
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Shortest Route in Km: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 6 Distance: 535 Cost 189.2
+Origin: BikeDepot1 Destination: TruckDepot3
+Origin: TruckDepot3 Destination: BikeDepot2
+Origin: BikeDepot2 Destination: TruckDepot6
+Origin: TruckDepot6 Destination: Airport2
+Origin: Airport2 Destination: Airport3
+Origin: Airport3 Destination: TruckDepot8
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---t1 to b5---
+Cheapest Route: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 7 Distance: 627 Cost 214.7
+Origin: TruckDepot1 Destination: BikeDepot4
+Origin: BikeDepot4 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: Airport3
+Origin: Airport3 Destination: TruckDepot8
+Origin: TruckDepot8 Destination: BikeDepot6
+Origin: BikeDepot6 Destination: BikeDepot5
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Shortest Route in Km: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 7 Distance: 522 Cost 326.7
+Origin: TruckDepot1 Destination: BikeDepot4
+Origin: BikeDepot4 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: TruckDepot7
+Origin: TruckDepot7 Destination: TruckDepot11
+Origin: TruckDepot11 Destination: BikeDepot6
+Origin: BikeDepot6 Destination: BikeDepot5
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---b1 to b5---
+Cheapest Route: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 6 Distance: 617 Cost 204.7
+Origin: BikeDepot1 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: Airport3
+Origin: Airport3 Destination: TruckDepot8
+Origin: TruckDepot8 Destination: BikeDepot6
+Origin: BikeDepot6 Destination: BikeDepot5
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Shortest Route in Km: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 6 Distance: 512 Cost 316.7
+Origin: BikeDepot1 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: TruckDepot7
+Origin: TruckDepot7 Destination: TruckDepot11
+Origin: TruckDepot11 Destination: BikeDepot6
+Origin: BikeDepot6 Destination: BikeDepot5
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---b10 to b15---
+Cheapest Route: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 7 Distance: 505 Cost 223.6
+Origin: BikeDepot10 Destination: TruckDepot17
+Origin: TruckDepot17 Destination: Airport9
+Origin: Airport9 Destination: Airport10
+Origin: Airport10 Destination: TruckDepot21
+Origin: TruckDepot21 Destination: BikeDepot13
+Origin: BikeDepot13 Destination: TruckDepot22
+Origin: TruckDepot22 Destination: BikeDepot15
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Shortest Route in Km: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 6 Distance: 405 Cost 270.6
+Origin: BikeDepot10 Destination: TruckDepot17
+Origin: TruckDepot17 Destination: Airport10
+Origin: Airport10 Destination: TruckDepot21
+Origin: TruckDepot21 Destination: BikeDepot13
+Origin: BikeDepot13 Destination: TruckDepot22
+Origin: TruckDepot22 Destination: BikeDepot15
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---b8 to b16---
+Cheapest Route: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 15 Distance: 1465 Cost 571.8
+Origin: BikeDepot8 Destination: BikeDepot3
+Origin: BikeDepot3 Destination: TruckDepot2
+Origin: TruckDepot2 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: Airport3
+Origin: Airport3 Destination: TruckDepot8
+Origin: TruckDepot8 Destination: BikeDepot6
+Origin: BikeDepot6 Destination: BikeDepot10
+Origin: BikeDepot10 Destination: BikeDepot11
+Origin: BikeDepot11 Destination: TruckDepot18
+Origin: TruckDepot18 Destination: Airport7
+Origin: Airport7 Destination: Airport8
+Origin: Airport8 Destination: TruckDepot19
+Origin: TruckDepot19 Destination: TruckDepot23
+Origin: TruckDepot23 Destination: BikeDepot16
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Shortest Route in Km: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 14 Distance: 1260 Cost 791.7
+Origin: BikeDepot8 Destination: TruckDepot1
+Origin: TruckDepot1 Destination: BikeDepot4
+Origin: BikeDepot4 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: TruckDepot7
+Origin: TruckDepot7 Destination: TruckDepot11
+Origin: TruckDepot11 Destination: BikeDepot6
+Origin: BikeDepot6 Destination: BikeDepot10
+Origin: BikeDepot10 Destination: BikeDepot11
+Origin: BikeDepot11 Destination: TruckDepot18
+Origin: TruckDepot18 Destination: Airport7
+Origin: Airport7 Destination: TruckDepot19
+Origin: TruckDepot19 Destination: TruckDepot23
+Origin: TruckDepot23 Destination: BikeDepot16
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+---b1 to b14---
+Cheapest Route: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 12 Distance: 1125 Cost 431.29999999999995
+Origin: BikeDepot1 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: Airport3
+Origin: Airport3 Destination: TruckDepot8
+Origin: TruckDepot8 Destination: BikeDepot6
+Origin: BikeDepot6 Destination: BikeDepot10
+Origin: BikeDepot10 Destination: TruckDepot17
+Origin: TruckDepot17 Destination: Airport9
+Origin: Airport9 Destination: Airport10
+Origin: Airport10 Destination: TruckDepot21
+Origin: TruckDepot21 Destination: BikeDepot13
+Origin: BikeDepot13 Destination: BikeDepot14
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Shortest Route in Km: 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Steps: 11 Distance: 920 Cost 590.3000000000001
+Origin: BikeDepot1 Destination: TruckDepot5
+Origin: TruckDepot5 Destination: Airport1
+Origin: Airport1 Destination: TruckDepot7
+Origin: TruckDepot7 Destination: TruckDepot11
+Origin: TruckDepot11 Destination: BikeDepot6
+Origin: BikeDepot6 Destination: BikeDepot10
+Origin: BikeDepot10 Destination: TruckDepot17
+Origin: TruckDepot17 Destination: Airport10
+Origin: Airport10 Destination: TruckDepot21
+Origin: TruckDepot21 Destination: BikeDepot13
+Origin: BikeDepot13 Destination: BikeDepot14
+Route End.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
